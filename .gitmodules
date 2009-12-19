@@ -1,0 +1,3 @@
+[submodule "pyhaiku"]
+	path = pyhaiku
+	url = git://github.com/tomwardill/python-haiku.git
