@@ -1,0 +1,6 @@
+Tell if your tweets are in haiku form.
+Currently very basic, just searches your latest 20 tweets for constructions matching the 5,7,5 syllable form.
+
+Will find a _lot_ of matching data, as it's a fairly easy format.
+
+Will add some rudimentary syntax (capitalisation, exact haiku only) in future. And build a webapp for it.
